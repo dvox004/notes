@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-06-13
 - Pinned dependency versions for reproducibility
+
+## 2026-06-13
+- Noted known limitation in docs
+- Reorganised test fixtures
